@@ -22,11 +22,18 @@ namespace RESTFULLAPI
         {
             if (e.KeyChar == (char)13)
             {
-                HttpClient client = new HttpClient();
-                HttpResponseMessage response = await client.GetAsync(txtURL.Text);
+                try
+                {
+                    HttpClient client = new HttpClient();
+                    HttpResponseMessage response = await client.GetAsync(txtURL.Text);
 
-                if (response.IsSuccessStatusCode) 
-                    rtxtLog.Text = await response.Content.ReadAsStringAsync();
+                    if (response.IsSuccessStatusCode) 
+                        rtxtLog.Text = await response.Content.ReadAsStringAsync();
+                }
+                catch(Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
             }
         }
 
