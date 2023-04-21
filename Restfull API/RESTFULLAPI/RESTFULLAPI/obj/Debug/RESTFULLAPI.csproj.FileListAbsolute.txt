@@ -1,0 +1,11 @@
+E:\C#\github\Week6\Restfull API\RESTFULLAPI\RESTFULLAPI\bin\Debug\RESTFULLAPI.exe.config
+E:\C#\github\Week6\Restfull API\RESTFULLAPI\RESTFULLAPI\bin\Debug\RESTFULLAPI.exe
+E:\C#\github\Week6\Restfull API\RESTFULLAPI\RESTFULLAPI\bin\Debug\RESTFULLAPI.pdb
+E:\C#\github\Week6\Restfull API\RESTFULLAPI\RESTFULLAPI\obj\Debug\RESTFULLAPI.csproj.AssemblyReference.cache
+E:\C#\github\Week6\Restfull API\RESTFULLAPI\RESTFULLAPI\obj\Debug\RESTFULLAPI.csproj.SuggestedBindingRedirects.cache
+E:\C#\github\Week6\Restfull API\RESTFULLAPI\RESTFULLAPI\obj\Debug\RESTFULLAPI.Form1.resources
+E:\C#\github\Week6\Restfull API\RESTFULLAPI\RESTFULLAPI\obj\Debug\RESTFULLAPI.Properties.Resources.resources
+E:\C#\github\Week6\Restfull API\RESTFULLAPI\RESTFULLAPI\obj\Debug\RESTFULLAPI.csproj.GenerateResource.cache
+E:\C#\github\Week6\Restfull API\RESTFULLAPI\RESTFULLAPI\obj\Debug\RESTFULLAPI.csproj.CoreCompileInputs.cache
+E:\C#\github\Week6\Restfull API\RESTFULLAPI\RESTFULLAPI\obj\Debug\RESTFULLAPI.exe
+E:\C#\github\Week6\Restfull API\RESTFULLAPI\RESTFULLAPI\obj\Debug\RESTFULLAPI.pdb
